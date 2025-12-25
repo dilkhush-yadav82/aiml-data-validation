@@ -15,5 +15,4 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
-week01-data-validation/stack-overflow-developer-survey-2019/*.csv
-week01-data-validation/stack-overflow-developer-survey-2019
+week01-data-validation/RAW_DATA/survey_results_public.csv
